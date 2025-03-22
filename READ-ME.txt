@@ -1,4 +1,4 @@
-  =>  Template Name    : Klinik - Clinic Website Template
+  =>  Template Name    : Clinic Website
 
   =>  Template Link    : https://htmlcodex.com/clinic-website-template
 
